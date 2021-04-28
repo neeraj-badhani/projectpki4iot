@@ -1,2 +1,2 @@
-# projectpki4iot
+# PKIoT
 Public Key Infrastructure for Internet of Things
